@@ -1,0 +1,662 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "productName": "Topuklu Ayakkabı",
+      "marka": "Tamer Tanca",
+      "resim": "https://static.ticimax.cloud/63078/Uploads/UrunResimleri/buyuk/tamer-tanca-kadin-hakiki-deri-yesil-kl-af-a1b.jpg",
+      "unitPrice": "1999"
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Elbise",
+      "marka": "Pierre Cardin",
+      "resim":"https://cdn.gencallar.com.tr/Uploads/Product/11430844_40400_1.jpg",
+      "unitPrice": "2000"
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Tişört",
+      "marka": "Lufian",
+      "resim":"https://n11scdn.akamaized.net/a1/1024/giyim-ayakkabi/tisort-atlet/lufian-erkek-t-shirt-lf18smkw018__0589318651207004.jpg",
+      "unitPrice": "650"
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "Sneaker",
+      "marka": "Elleshoes",
+      "resim":"https://productimages.hepsiburada.net/s/777/300-443/110000629650055.jpg",
+      "unitPrice": "960"
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "productName": "Günlük Ayakkabı",
+      "marka": "Adidas",
+      "resim":"https://akn-ss.a-cdn.akinoncloud.com/products/2023/08/17/340690/dcad6596-d907-457d-b2dc-e308cfb6f27a_size3840_cropCenter.jpg",
+      "unitPrice": 2100
+    },
+    {
+      "id": 7,
+      "categoryId": 7,
+      "productName": "Spor Üst Giyim",
+      "marka": "Nike",
+      "resim":"https://korayspor.mncdn.com/mnresize/1920/-/korayspor/products/DR1352-010_1.jpg",
+      "unitPrice": 475
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "productName": "Babet",
+      "marka": "Greyder",
+      "resim":"https://cdn-greyder.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/2y2ca31471-15209-31471-gunluk-kadin-ayakkabi-siyah-637920980479370386.jpg?q=100",
+      "unitPrice": 682
+    },
+    {
+      "id": 9,
+      "categoryId": 6,
+      "productName": "Bulaşık Deterjanı",
+      "marka": "Fairy",
+      "resim":"https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/54474/uploads/urunresimleri/buyuk/fairy-sivi-bulasik-deterjani-nar-650-ml--0acc.jpg",
+      "unitPrice": 160
+    },
+    {
+      "id": 10,
+      "categoryId": 8,
+      "productName": "Süpürge",
+      "marka": "Arnica",
+      "resim":"https://cdn.akakce.com/z/arnica/arnica-et14301-tesla-premium-mor-750-w.jpg",
+      "unitPrice": 3200
+    },
+    {
+      "id": 11,
+      "categoryId": 4,
+      "productName": "Omuz Çantası",
+      "marka": "Network",
+      "resim":"https://cdn.dsmcdn.com/mnresize/400/-/ty1315/product/media/images/prod/QC/20240516/13/19b787db-03e1-35f9-be77-313b90fc6e4c/1_org.jpg",
+      "unitPrice": 450
+    },
+    {
+      "id": 12,
+      "categoryId": 4,
+      "productName": "Sırt Çantası",
+      "marka": "Decathlon",
+      "resim":"https://contents.mediadecathlon.com/p2583201/k$48aa3a91dc7a64c6022f506d159281b7/sq/8502149.jpg?format=auto&f=800x0",
+      "unitPrice": 1250
+    },
+    {
+      "id": 13,
+      "categoryId": 8,
+      "productName": "Akıllı Saat",
+      "marka": "Huawei",
+      "resim":"https://img01.huaweifile.com/eu/tr/huawei/pms/uomcdn/TRHW/pms/202309/gbom/6942103104794/800_800_A1B235ED7E448080400B3F0494C2A914mp.png",
+      "unitPrice": 3500
+    },
+    {
+      "id": 14,
+      "categoryId": 7,
+      "productName": "Spor Alt Giyim",
+      "marka": "Lescon",
+      "resim":"https://cdn.lescon.com.tr/mnresize/480/-/lescon/upload/urunler/23BTBS002103_011_4.jpg",
+      "unitPrice": 495
+    },
+    {
+      "id": 15,
+      "categoryId": 2,
+      "productName": "Sandalet",
+      "marka": "Flo",
+      "resim":"https://floimages.mncdn.com/media/catalog/product/24-03/11/201155383-1-1710142471.jpg",
+      "unitPrice": 600
+    },
+    {
+      "id": 16,
+      "categoryId": 3,
+      "productName": "Saat",
+      "marka": "Casio",
+      "resim":"https://www.alwaysfashion.com/images/thumbs/0199825_casio-quartz-mens-watch-mtp-1375d-2a1vdf.jpeg",
+      "unitPrice": 10000
+    },
+    {
+      "id": 17,
+      "categoryId": 6,
+      "productName": "Çamaşır Deterjanı",
+      "marka": "Ariel",
+      "resim":"https://cdn.kozmela.com/UserFiles/Product/big/5413149635135.jpg",
+      "unitPrice": 145
+    },
+    {
+      "id": 18,
+      "categoryId": 8,
+      "productName": "Bilgisayar",
+      "marka": "Msi",
+      "resim":"https://www.gaming.gen.tr/wp-content/uploads/2023/09/msi-katana-15-b13vgk-1469xtr-intel-core-i9-13900h-16gb-ddr5-512gb-ssd-rtx4070-8gb-15-6-inc-full-hd-144hz-freedos-gaming-laptop.jpg",
+      "unitPrice": 35000
+    },
+    {
+      "id": 19,
+      "categoryId": 3,
+      "productName": "Kolye",
+      "marka": "Swarovski",
+      "resim":"https://www.gunkutsaat.com/productimages/181337/big/5660594.jpg",
+      "unitPrice": 15000
+    },
+    {
+      "id": 20,
+      "categoryId": 3,
+      "productName": "Bileklik",
+      "marka": "Zen pırlanta",
+      "resim":"https://www.zenpirlanta.com/resim/urun/sosyal-medyada-paylasilanlar-eski/sosyal_medyada_paylasilanlar/zen-pirlanta-sosyal_medyada_paylasilanlar-1001735655-BC043574-500-114-1673512406-1.jpg",
+      "unitPrice": 12000
+    },
+    {
+      "id": 21,
+      "categoryId": 3,
+      "productName": "Küpe",
+      "marka": "Atasay",
+      "resim":"https://92d339.cdn.akinoncloud.com/products/2022/10/25/61046/dd25bbd7-c164-446e-bfba-505707cc68e5_size800x800_cropTop.jpg",
+      "unitPrice": 25000
+    },
+    {
+      "id": 22,
+      "categoryId": 5,
+      "productName": "Parfüm",
+      "marka": "Jean Paul",
+      "resim":"https://www.zumrutparfumeri.com/jean-paul-gaultier-le-belle-intense-100-ml-edp-kadin-jean-paul-gaultier-20991-15-B.jpg",
+      "unitPrice": 2997
+    },
+    {
+      "id": 23,
+      "categoryId": 5,
+      "productName": "Göz Makyajı",
+      "marka": "Yves Roche",
+      "resim":"https://i.pinimg.com/736x/7e/a0/b2/7ea0b26df70344f161f4bd1727d633f0.jpg",
+      "unitPrice":8000
+    },
+    {
+      "id": 24,
+      "categoryId": 1,
+      "productName": "Gömlek",
+      "marka": "Altınyıldız Classics",
+      "resim":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1rLsKkbmNYIrd3MbCQLdWdRKgOONHHZXij60ybeaxdVfyipGpNEZC7V5Bb68IRJIHzhWg_I6ibviubLUubvKqyg99dJ0hP7EAgMyeJ9r5O2p1d3lygNpA&usqp=CAE",
+      "unitPrice": 1360
+    },
+    {
+      "id": 25,
+      "categoryId": 3,
+      "productName": "Fular",
+      "marka": "Beymen",
+      "resim":"https://cdn.beymen.com/mnresize/596/830/productimages/51onsjz5.jtz_IMG_01_8683791324245.jpg",
+      "unitPrice": 420
+    },
+    {
+      "id": 26,
+      "categoryId": 3,
+      "productName": "Eldiven",
+      "marka": "Colin's",
+      "resim":"https://img-colinstr.mncdn.com/mnresize/800/-/Assets/Branch/Originals/185990_0.jpeg?v=1701789872",
+      "unitPrice": 268
+    },
+    {
+      "id": 27,
+      "categoryId": 3,
+      "productName": "Bere",
+      "marka": "LcWaikiki",
+      "resim":"https://img-lcwaikiki.mncdn.com/mnresize/1020/1360/mpsellerportal/v1/img_113855194v1_e3145307-091f-4fde-a762-7e5f435234a6.jpg",
+      "unitPrice": 99
+    },
+    {
+      "id": 28,
+      "categoryId": 7,
+      "productName": "Spor Ayakkabı",
+      "marka": "InStreet",
+      "resim":"https://floimages.mncdn.com/mnresize/600/-/media/catalog/product/24-02/15/101920495_d1.jpg?w=600",
+      "unitPrice": 2165
+    },
+    {
+      "id": 29,
+      "categoryId": 6,
+      "productName": "Mop",
+      "marka": "Silva",
+      "resim":"https://cdn.myikas.com/images/d08026d6-4ecb-47c9-ad28-3bb2538aa99b/1f2b19dd-3293-4463-af88-c041dbab2025/180/silva-mikrofiber-mop-uclu-set-yeni.webp",
+      "unitPrice": 2270
+    },
+    {
+      "id": 30,
+      "categoryId": 8,
+      "productName": "Telefon",
+      "marka": "Xaomi",
+      "resim":"https://i.ytimg.com/vi/yVqdU99F_9U/maxresdefault.jpg",
+      "unitPrice": 3799
+    },
+    {
+      "id": 31,
+      "categoryId": 4,
+      "productName": "Bel Çantası",
+      "marka": "The North Face",
+      "resim":"https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/58179/uploads/urunresimleri/buyuk/the-north-face-lumbnical-bordo-bel-can-d9-433.jpg",
+      "unitPrice": 867
+    },
+    {
+      "id": 32,
+      "categoryId": 4,
+      "productName": "Okul Çantası ",
+      "marka": "flo",
+      "resim":"https://floimages.mncdn.com/media/catalog/product/24-07/24/201293312-2-1721803292.jpg",
+      "unitPrice": 899
+    },
+    {
+      "id": 33,
+      "categoryId": 4,
+      "productName": "Laptop Çantası",
+      "marka": "Nors",
+      "resim":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgDj1Y9pwEbr_VQOb8N7USv6A-aVtdLcDyA&s",
+      "unitPrice": 948
+    },
+    {
+      "id": 34,
+      "categoryId": 1,
+      "productName": "Kaban",
+      "marka": "Damat's",
+      "resim":"https://d5e14a.a-cdn.akinoncloud.com/products/2024/07/13/968741/a3d16f78-764e-43a3-ad9a-2df2829fa95d_size1250x1842_cropCenter.jpg",
+      "unitPrice": 4266
+    },
+    {
+      "id": 35,
+      "categoryId": 1,
+      "productName": "Pantolon",
+      "marka": "Jack Jones",
+      "resim":"https://jackjones.com.tr/image/cache/catalog/products/12152279/6545362ed6a2f-1144x1468.webp",
+      "unitPrice": 690
+    },
+    {
+      "id": 36,
+      "categoryId": 8,
+      "productName": "Tablet",
+      "marka": "Ipad",
+      "resim":"https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/129951-1_large.jpg",
+      "unitPrice": 11999
+    },
+    {
+      "id": 37,
+      "categoryId": 8,
+      "productName": "Şarj Aleti",
+      "marka": "Tlink",
+      "resim":"https://productimages.hepsiburada.net/s/94/375-375/110000036992442.jpg",
+      "unitPrice": 580
+    },
+    {
+      "id": 38,
+      "categoryId": 1,
+      "productName": "Etek",
+      "marka": "DeFacto",
+      "resim":"https://alisveris.yesiltopuklar.com/wp-content/uploads/2018/08/DeFacto-Mavi-Regular-Fit-%C3%87i%C3%A7ekli-Viskon-Etek.jpg",
+      "unitPrice": 263
+    },
+    {
+      "id": 39,
+      "categoryId": 1,
+      "productName": "Kazak",
+      "marka": "Avva",
+      "resim":"https://img-ozdilekteyim.mncdn.com/medias/8698670602055.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzNzE5NnxpbWFnZS9qcGVnfGFERTJMMmcwTWk4eE1ERTBPREEzT0RBMU9UVTFNQXw5ZGQ2NzgzZDY1MTI2Y2U4YmJlYmJmOGYyODdlNTI3MWI4YzJjNjk3OWU2NDE2NWM0YjM4ZGRlZmJiZjYyODU3",
+      "unitPrice": 479
+    },
+    {
+      "id": 40,
+      "categoryId": 8,
+      "productName": "Playstation",
+      "marka": "Sony",
+      "resim":"https://i.ytimg.com/vi_webp/_NX8F9FBvg0/maxresdefault.webp",
+      "unitPrice": 26999
+    },
+    {
+      "id": 41,
+      "categoryId": 8,
+      "productName": "Klima",
+      "marka": "Mitsubishi electric",
+      "resim":"https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/787300335/787300335_0_MC/210b12b6e817492baf5e93c0e78be7cf.jpg",
+      "unitPrice": 18240
+    },
+    {
+      "id": 42,
+      "categoryId": 5,
+      "productName": "Cilt Bakımı",
+      "marka": "Sephora",
+      "resim":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXBjIPTL5Ye43ZdLwdZ0NEH8MlqrU_JDqEiQ&s",
+      "unitPrice": 3200
+    },
+    {
+      "id": 43,
+      "categoryId": 1,
+      "productName": "Hırka",
+      "marka": "Dilvin",
+      "resim":"https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/13238/uploads/urunresimleri/buyuk/dilvin-t2732-kadin-hirka--kirmizi-3ae42b.jpg",
+      "unitPrice": 400
+    },
+    {
+      "id": 44,
+      "categoryId": 2,
+      "productName": "Bot",
+      "marka": "Derimod",
+      "resim":"https://derimod.com.tr/cdn/shop/files/5db3323c96f765f363c4e926b3ef53cd.webp?v=1721641123",
+      "unitPrice": 2340
+    },
+    {
+      "id": 45,
+      "categoryId": 8,
+      "productName": "Televizyon",
+      "marka": "Lg",
+      "resim":"https://www.lg.com/content/dam/channel/wcms/tr/2024_he_lg-com/tv/uhd2024/75ut81006la/Basic450-1.jpg",
+      "unitPrice": 33000
+    },
+    {
+      "id": 46,
+      "categoryId": 8,
+      "productName": "Tartı",
+      "marka": "Xaomi mi body",
+      "resim":"https://cdn.dsmcdn.com/ty36/product/media/images/20210328/2/75745344/158097208/0/0_org_zoom.jpg",
+      "unitPrice":999
+    },
+    {
+      "id": 47,
+      "categoryId": 3,
+      "productName": "Atkı",
+      "marka": "Mavi",
+      "resim":"https://sky-static.mavi.com/mnresize/820/1162/1912667-85548_image_2.jpg",
+      "unitPrice": 368
+    },
+    {
+      "id": 48,
+      "categoryId": 3,
+      "productName": "Kemer",
+      "marka": "Centone",
+      "resim":"https://www.centone.com.tr/UserFiles/Fotograflar/365x548/135014-duz-rugan-deri-kemer-lacivert-renk-lacivert-duz-rugan-deri-kemer-1d5-db.jpg",
+      "unitPrice": 50
+    },
+    {
+      "id": 49,
+      "categoryId": 3,
+      "productName": "Gözlük",
+      "marka": "Rayban",
+      "resim":"https://stn-atasun.mncdn.com/mnresize/360/360/Content/media/ProductImg/original/gu036308-rb-0rb0840s-90131-5121145-638264161769782304.png?v=r7n1d151",
+      "unitPrice": 4500
+    },
+    {
+      "id": 50,
+      "categoryId": 3,
+      "productName": "Halhal",
+      "marka": "Sochic",
+      "resim":"https://f-sch-l.mncdn.com/livephotos/217/1069781744/1069781744-521-0.jpg",
+      "unitPrice": 3610
+    },
+    {
+      "id": 51,
+      "categoryId": 7,
+      "productName": "Yürüme Bandı",
+      "marka": "Decathlon",
+      "resim":"https://contents.mediadecathlon.com/p2332850/k$19c2898171f7fdb9245f3c11c6f11532/sq/8754269.jpg?format=auto&f=800x0",
+      "unitPrice": 4743
+    },
+    {
+      "id": 52,
+      "categoryId": 5,
+      "productName": "Saç Bakımı",
+      "marka": "Sephora",
+      "resim":"https://www.sephora.com.tr/dw/image/v2/BCZG_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw3de028f4/images/hi-res/SKU/SKU_5180/668275_swatch.jpg?sw=585&sh=585&sm=fit",
+      "unitPrice": 1839
+    },
+    {
+      "id": 53,
+      "categoryId": 6,
+      "productName": "Oda Kokusu",
+      "marka": "Vivense",
+      "resim":"https://img.vivense.com/1920x1280/images/acab7362152f425aa3c1dacd0e2e5b30.jpg",
+      "unitPrice": 420
+    },
+    {
+      "id": 54,
+      "categoryId": 6,
+      "productName": "Banyo Temizleyici",
+      "marka": "Cif",
+      "resim":"https://cdnsta.avansas.com/mnresize/900/-/urun/98401/cif-power--shine-banyo-sprey-750ml-zoom-3.jpg",
+      "unitPrice": 76
+    },
+    {
+      "id": 55,
+      "categoryId": 6,
+      "productName": "Islak Mendil",
+      "marka": "Sleepy",
+      "resim":"https://www.mismarsanalmarket.com/UserFiles/Fotograflar/15235-sleepy-yuzey-temizlik-havlusu-100-lu-ekran-alintisi.jpg",
+      "unitPrice": 98
+    },
+    {
+      "id": 56,
+      "categoryId": 5,
+      "productName": "Ağız Bakım",
+      "marka": "Signal",
+      "resim":"https://iis-akakce.akamaized.net/p.z?%2F%2Fimg%2Epttavm%2Ecom%2Fpimages%2F592%2F745%2F321%2Fc%5F657bff7392d30%2Ewebp%3Fv%3D201910111530",
+      "unitPrice": 369
+    },
+    {
+      "id": 57,
+      "categoryId": 5,
+      "productName": "Vücut Bakım",
+      "marka": "L'occitane",
+      "resim":"https://a40431.a-cdn.akinoncloud.com/products/2024/01/10/4028/c762c482-e6be-4c7a-9cc3-dd3a5a095f0a_size500x500_cropCenter.jpg",
+      "unitPrice": 1136
+    },
+    {
+      "id": 58,
+      "categoryId": 8,
+      "productName": "Fotoğraf Makinesi",
+      "marka": "Canon",
+      "resim":"https://fotolifeakademi.com/uploads/2021/12/canon-fotograf-makinesi.webp",
+      "unitPrice": 18399
+    },
+    {
+      "id": 59,
+      "categoryId": 4,
+      "productName": "El Çantası",
+      "marka": "Matmazel",
+      "resim":"https://matmazelcanta.com/cdn/shop/files/matmazel-noctis-el-ve-omuz-cantasi-10226.jpg?v=1714490053&width=2160",
+      "unitPrice": 879
+    },
+    {
+      "id": 60,
+      "categoryId": 4,
+      "productName": "Kanvas Çanta",
+      "marka": "Manuka",
+      "resim":"https://www.manuka.com.tr/-26311-53-O.jpg",
+      "unitPrice": 415
+    },
+    {
+      "id": 61,
+      "categoryId": 2,
+      "productName": "Çizme",
+      "marka": "Elle Shoes",
+      "resim":"https://static.glami.com.tr/img/800x800bt/147452784-elle-shoes-hakiki-deri-kahverengi-kadin-cizme.jpg",
+      "unitPrice": 2299
+    },
+    {
+      "id": 62,
+      "categoryId": 3,
+      "productName": "Doğal Taş",
+      "marka": "Oltu Taşı",
+      "resim":"https://ideacdn.net/shop/cr/57/myassets/products/728/oltu-tasli-cekic-dovme-el-yapimi-gumus-set-1027-27205-jpg_min.jpeg?revision=1697143329",
+      "unitPrice": 2687
+    },
+    {
+      "id": 63,
+      "categoryId": 2,
+      "productName": "Terlik",
+      "marka": "Kinetix",
+      "resim":"https://floimages.mncdn.com/media/catalog/product/24-02/19/101701188_f1.jpg",
+      "unitPrice": 43
+    },
+    {
+      "id": 64,
+      "categoryId": 5,
+      "productName": "Duş Jeli",
+      "marka": "Palmolive",
+      "resim":"https://basdasonline.com//images/prod/44461.jpg",
+      "unitPrice": 39
+    },
+    {
+      "id": 65,
+      "categoryId": 2,
+      "productName": "Panduf",
+      "marka": "Penti",
+      "resim":"https://static.glami.com.tr/img/800x800bt/262190636-penti-kadin-pembe-pinkish-bot-panduf-pnhfxprh20sk-pembe.jpg",
+      "unitPrice": 126
+    },
+    {
+      "id": 66,
+      "categoryId": 2,
+      "productName": "Krampon",
+      "marka": "Adidas",
+      "resim":"https://akn-barcin.a-cdn.akinoncloud.com/products/2023/10/13/1138494/7a3ffc60-f0df-4eed-ac08-756e91815cd0_size900x900_cropCenter.jpg",
+      "unitPrice": 1350
+    },
+    {
+      "id": 67,
+      "categoryId": 1,
+      "productName": "Bluz",
+      "marka": "Paul Mark",
+      "resim":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqnXWFQOav8aiWHtXsjGgFzQuzt2cobrxMA&s",
+      "unitPrice": 745
+    },
+    {
+      "id": 68,
+      "categoryId": 3,
+      "productName": "Yüzük",
+      "marka": "Atasay",
+      "resim":"https://92d339.cdn.akinoncloud.com/products/2024/07/09/39235/98a675ba-2554-44d1-a3d8-c9557081e260_size800x800_cropTop.jpg",
+      "unitPrice": 12000
+    },
+    {
+      "id": 69,
+      "categoryId": 4,
+      "productName": "Makyaj Çantası",
+      "marka": "Victoria Secret",
+      "resim":"https://static.ticimax.cloud/38850/uploads/urunresimleri/thumb/4u1-arada-makyaj-cantasi-5e939-.jpg",
+      "unitPrice": 2650
+    },
+    {
+      "id": 70,
+      "categoryId": 1,
+      "productName": "Eşarp",
+      "marka": "Tuğba",
+      "resim":"https://cdn.dsmcdn.com/mnresize/1200/1800/ty707/product/media/images/20230129/14/269081992/674710324/2/2_org_zoom.jpg",
+      "unitPrice": 1100
+    },
+    {
+      "id": 71,
+      "categoryId": 4,
+      "productName": "Abiye Çanta",
+      "marka": "Belarus",
+      "resim":"https://static.ticimax.cloud/cdn-cgi/image/width=500,quality=85/38914/uploads/urunresimleri/buyuk/coddepo-kategorisiz-silmeyinbelarus-gu-5e2d3d.jpg",
+      "unitPrice": 899
+    },
+    {
+      "id": 72,
+      "categoryId": 4,
+      "productName": "Bez Çanta",
+      "marka": "Manuka",
+      "resim":"https://cache.manuka.com.tr/product/cache/747x1121_-48030-87-B.jpg",
+      "unitPrice": 586
+    },
+    {
+      "id": 73,
+      "categoryId": 8,
+      "productName": "Ütü",
+      "marka": "Philips",
+      "resim":"https://images.philips.com/is/image/philipsconsumer/vrs_33b8194fbc9cc2c64d041a43527895c49947ef3a?$pnglarge$&wid=960",
+      "unitPrice": 3168
+    },
+    {
+      "id": 74,
+      "categoryId": 7,
+      "productName": "Bisiklet",
+      "marka": "Bisan",
+      "resim":"https://www.martibisiklet.com/image/cache/catalog/products/1436-17239-1500x900.jpg",
+      "unitPrice": 10000
+    },
+    {
+      "id": 75,
+      "categoryId": 1,
+      "productName": "Mont",
+      "marka": "Kip",
+      "resim":"https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=85/13238/uploads/urunresimleri/buyuk/kip-mnt-290-erkek-mont--siyah-5625.jpg",
+      "unitPrice": 1697
+    },
+    {
+      "id": 76,
+      "categoryId": 1,
+      "productName": "Yağmurluk",
+      "marka": "Salomon",
+      "resim":"https://akn-spx.a-cdn.akinoncdn.com/products/2022/10/17/1071468/be804ac2-e446-44da-8f57-13685a20bf4d.jpg",
+      "unitPrice": 896
+    },
+    {
+      "id": 77,
+      "categoryId": 2,
+      "productName": "Koşu Ayakkabısı",
+      "marka": "Under Armour",
+      "resim":"https://www.enderspor.com/UserFiles/ProductImages/0/3026545/orj/under-armour-hovr-infinite-5-erkek-kosu-ayakkabisi-101743.jpg",
+      "unitPrice": 989
+    },
+    {
+      "id": 78,
+      "productName": "Cüzdan",
+      "categoryId": 4,
+      "unitPrice": "263",
+      "resim":"https://matmazelcanta.com/cdn/shop/files/matmazel-sempiterna-cuzdan-11992.png?v=1720436537&width=2160",
+      "marka": "Matmazel"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Giyim",
+      "seoUrl": "Giyim"
+    },
+    {
+      "id": 2,
+      "categoryName": "Ayakkabı",
+      "seoUrl": "Ayakkabı"
+    },
+    {
+      "id": 3,
+      "categoryName": "Aksesuar",
+      "seoUrl": "Aksesuar"
+    },
+    {
+      "id": 4,
+      "categoryName": "Çanta",
+      "seoUrl": "Çanta"
+    },
+    {
+      "id": 5,
+      "categoryName": "Kozmetik",
+      "seoUrl": "Kozmetik"
+    },
+    {
+      "id": 6,
+      "categoryName": "Temizlik",
+      "seoUrl": "Temizlik"
+    },
+    {
+      "id": 7,
+      "categoryName": "Spor",
+      "seoUrl": "Spor"
+    },
+    {
+      "id": 8,
+      "categoryName": "Teknolojik",
+      "seoUrl": "Teknolojik"
+    }
+  ]
+}

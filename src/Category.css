@@ -1,0 +1,10 @@
+.lgi{
+  background-color: goldenrod;
+}
+
+
+.lgi:hover{
+  background: darkorange;
+  box-shadow: 5px 5px darksalmon;
+  border-radius: 15px;
+}

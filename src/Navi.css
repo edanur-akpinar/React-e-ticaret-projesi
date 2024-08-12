@@ -1,0 +1,40 @@
+.trth {
+    text-align: center;
+}
+
+.dng:hover {
+    background: red;
+
+}
+
+.trtd:hover {
+    background: lightgrey;
+}
+
+.trth:hover {
+    background: lightgoldenrodyellow;
+}
+
+.banner {
+    background-color: #007bff;
+    /* Arka plan rengi */
+    color: #fff;
+    /* Metin rengi */
+    padding: 10px;
+    /* Kenar boşluğu */
+    text-align: center;
+    /* Metin ortalaması */
+    font-size: 24px;
+    /* Metin boyutu */
+    font-weight: bold;
+    /* Kalın metin */
+}
+
+.tby:hover {
+    background-color: lightgray;
+}
+
+.fcl:hover {
+    transform: scale(1.05);
+    /* Kartı 1.05 kat büyüt */
+}

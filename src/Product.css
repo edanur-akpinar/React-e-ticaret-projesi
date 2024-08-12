@@ -1,0 +1,31 @@
+.Product {
+    width: 1500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* To distribute cards evenly */
+}
+
+.pid:hover {
+    background-color: lightgrey;
+}
+
+.PCard:hover {
+    background-color: goldenrod;
+}
+
+/* Product.css */
+
+/* İlk olarak, Card bileşeninin varsayılan stilini sıfırlayalım */
+.PCard {
+    transition: transform 0.2s;
+  }
+  
+  /* Kartın üzerine geldiğinde büyütme efekti ekleyelim */
+  .PCard:hover {
+    transform: scale(1.20); /* Kartı 1.05 kat büyüt */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Hafif bir gölgelendirme eklenir */
+    z-index:1;
+  }
+  
+
